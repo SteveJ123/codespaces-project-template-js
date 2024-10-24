@@ -49,10 +49,10 @@ const projectList = [
     url: "https://github.com/Rohail30/Real-Time-Chat-App",
   },
   {
-    title: "My Resume",
+    title: "Weather Forecast App",
     description:
-      "I have created my resume",
-    url: "https://stevej123.github.io/content/",
+      "Created a weather forecasting app using React and OpenWeather API, providing real-time weather updates based on user location.",
+    url: "https://github.com/Anantagg/Weather-App",
   },
 ];
 
